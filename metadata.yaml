@@ -1,0 +1,35 @@
+_repo: Daisy-Dare-and-Baby-PowerPoems_27677
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Johnson, D. Vertner
+    gutenberg_agent_id: '32840'
+    url: http://www.gutenberg.org/2009/agents/32840
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Jeffrey, Rosa Vertner
+    alias: Johnson, Rosa Vertner
+    birthdate: 1828
+    deathdate: 1894
+    gutenberg_agent_id: '32839'
+    url: http://www.gutenberg.org/2009/agents/32839
+description: ''
+gutenberg_issued: '2008-12-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27677'
+  lccn: '28008696'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Poetry'
+title: 'Daisy Dare, and Baby Power
+
+  Poems'
+url: http://www.gutenberg.org/ebooks/27677
